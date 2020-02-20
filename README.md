@@ -1,2 +1,5 @@
 # hello_world
-basic code practice
+
+Hello World,
+
+misko2da popping put so mad coding skills
